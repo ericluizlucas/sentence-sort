@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/words-sort/bin/Debug/net7.0/words-sort
+/home/ericluizlucas/Documents/study/dotnet/words-sort/bin/Debug/net7.0/words-sort.deps.json
+/home/ericluizlucas/Documents/study/dotnet/words-sort/bin/Debug/net7.0/words-sort.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/words-sort/bin/Debug/net7.0/words-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/words-sort/bin/Debug/net7.0/words-sort.pdb
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/refint/words-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.pdb
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/words-sort.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/words-sort/obj/Debug/net7.0/ref/words-sort.dll
